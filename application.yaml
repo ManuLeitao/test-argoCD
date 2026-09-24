@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/EpitechMscProPromo2027/T-CLO-901-MLH-9-1-kube-5.git
+    repoURL: https://github.com/ManuLeitao/test-argoCD.git
     targetRevision: main
     path: gitops-app/overlays/local
   destination:

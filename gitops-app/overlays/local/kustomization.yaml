@@ -5,4 +5,4 @@ resources:
   - ../../base
 replicas:
   - name: web
-    count: 1
+    count: 3
