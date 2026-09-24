@@ -1,0 +1,6 @@
+apiVersion: v2
+name: chart-web
+description: Application de demonstration KUBE
+type: application
+version: 0.1.0
+appVersion: "1"
